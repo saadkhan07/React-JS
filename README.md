@@ -1,2 +1,2 @@
 # React-JS
-contains collection of React JS projects 
+contains collection of my React JS projects 
